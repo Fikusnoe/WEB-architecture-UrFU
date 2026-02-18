@@ -1,3 +1,4 @@
+# Параметры виртуальной машины в процессе создания
 ![Параметры виртуальной машины в процессе создания](Screenshots/01-vm-settings.png)
 ![Командная строка Ubuntu после установки с приглашением](Screenshots/02-vm-console.png )
 ![Вывод cat ~/report/01-system.txt](Screenshots/03-system-info.png )
